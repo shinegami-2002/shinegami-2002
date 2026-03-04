@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Building+Agentic+AI+Systems+%26+RAG+Pipelines;Shipping+Full-Stack+Apps+with+Next.js+%2B+TypeScript;Deploying+on+AWS+%7C+Docker+%7C+Kubernetes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=750&lines=Building+Agentic+AI+Systems+%26+RAG+Pipelines;Shipping+Full-Stack+Apps+with+Next.js+%2B+TypeScript;Deploying+on+AWS+%7C+Docker+%7C+Kubernetes)](https://git.io/typing-svg)
 
 </div>
 
