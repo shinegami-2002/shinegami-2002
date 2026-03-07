@@ -43,23 +43,26 @@ focus: Agentic AI, LLM Systems, RAG Pipelines, Scalable Cloud Architecture
 | [**ScholarAgent**](https://github.com/shinegami-2002/scholar-agent) | Multi-agent RAG research assistant with 7-node LangGraph pipeline, corrective RAG, and hallucination detection | `LangGraph` `ChromaDB` `FastAPI` `Next.js` `TypeScript` |
 | [**MCP Healthcare Server**](https://github.com/shinegami-2002/mcp-healthcare-server) | Model Context Protocol server exposing 6 healthcare tools across 4 federal APIs | `FastMCP` `Python` `httpx` `Docker` |
 | [**AI ChatBot**](https://github.com/shinegami-2002/AI_ChatBot) | Multi-provider conversational AI with LangChain orchestration and async streaming | `FastAPI` `LangChain` `Docker` `React` |
+| [**Distributed Task Queue**](https://github.com/shinegami-2002/distributed-task-queue) | Production-grade distributed task queue with priority scheduling, retry logic, and dead-letter routing | `Go` `gRPC` `Redis` `PostgreSQL` `Docker` `Kubernetes` |
+| [**LinkVault**](https://github.com/shinegami-2002/linkvault) | REST API for link/bookmark management with JWT/API-key auth, rate limiting, and full-text search | `Go` `PostgreSQL` `Redis` `Docker` |
 | [**Chimera AR**](https://github.com/shinegami-2002/ChimeraAR) | Mixed reality painting app for Meta Quest 3 with room scanning and surface detection | `Unity 6` `C#` `OpenXR` `Meta XR SDK` |
 
 </div>
 
 <br>
 
-### `> stats`
+### `> trophies`
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shinegami-2002&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=shinegami-2002&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shinegami-2002&theme=algolia&no-frame=true&no-bg=true&column=7" />
 </div>
 
 <br>
 
+### `> activity`
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinegami-2002&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinegami-2002&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb" />
 </div>
 
 <br>
