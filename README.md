@@ -51,29 +51,11 @@ focus: Agentic AI, LLM Systems, RAG Pipelines, Scalable Cloud Architecture
 
 <br>
 
-### `> trophies`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shinegami-2002&theme=algolia&no-frame=true&no-bg=true&column=7" />
-</div>
-
-<br>
-
 ### `> activity`
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinegami-2002&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb" />
 </div>
-
-<br>
-
-### `> contribution_graph`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shinegami-2002/shinegami-2002/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shinegami-2002/shinegami-2002/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shinegami-2002/shinegami-2002/output/github-snake-dark.svg" />
-</picture>
 
 <br>
 
